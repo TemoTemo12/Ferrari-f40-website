@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* bye css :( */
+
+/* Add smooth scrolling for anchor links */
+html {
+    scroll-behavior: smooth;
+  }
+  
